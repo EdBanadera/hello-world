@@ -1,2 +1,3 @@
 # hello-world
-just another repositor
+hi!
+I'm Ed, beginner.
